@@ -36,17 +36,17 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed-anter-3a6524349/mohamed-anter-3a6524349/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed-anter-3a6524349/mohamed-anter-3a6524349/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed-anter-3a6524349/mohamed-anter-3a6524349/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamed-Anter-dev/Mohamed-Anter-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamed-Anter-dev/Mohamed-Anter-dev/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamed-Anter-dev/Mohamed-Anter-dev/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-anter-3a6524349&show_icons=true&theme=dracula&hide_border=false" height="150" alt="github stats" />
-  <img src="https://streak-stats.demolab.com?user=mohamed-anter-3a6524349&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Anter-dev&show_icons=true&theme=dracula&hide_border=false" height="150" alt="github stats" />
+  <img src="https://streak-stats.demolab.com?user=Mohamed-Anter-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
